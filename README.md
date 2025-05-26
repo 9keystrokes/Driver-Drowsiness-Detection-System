@@ -43,7 +43,7 @@ Drowsy driving is a major cause of road accidents globally. This project aims to
 
 1. Clone the repository:
    ```bash
-   git clonehttps://github.com/9keystrokes/Driver-Drowsiness-Detection-System.git
+   git clone https://github.com/9keystrokes/Driver-Drowsiness-Detection-System.git
    cd Driver-Drowsiness-Detection-System
    ```
 
