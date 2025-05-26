@@ -1,4 +1,4 @@
-# Drowsiness and Yawn Detection System
+# Driver Drowsiness Detection System
 
 A real-time drowsiness and yawn detection system built with Python, OpenCV, and dlib to help prevent accidents caused by driver fatigue.
 
